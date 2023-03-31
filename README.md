@@ -19,7 +19,7 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50">
-    <img align="center" style="background-color: white; border-radius: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="50">
 </div>
 <br>
@@ -29,4 +29,4 @@
 
 - I'm an University Student currently working on a project called CyberNáhuatl to obtain my professional degree.
 
-- In my free time i like to code on personal projects, fiddle around with my SO, play guitar and videogames.
+- In my free time i like to code on personal projects, fiddle around with my OS, play guitar and videogames.
