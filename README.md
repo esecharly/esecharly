@@ -18,7 +18,6 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="50">
 </div>
 <br>
