@@ -26,6 +26,6 @@
 
 ### About me
 
-- I'm an University Student currently working on a project called CyberNáhuatl to obtain my professional degree.
+- I'm a Computer Systems Engineer currently studying Spring Framework and revisiting some Java stuff.
 
 - In my free time i like to code on personal projects, fiddle around with my OS, play guitar and videogames.
